@@ -1,0 +1,53 @@
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\bin\Debug\Final Sacco.exe.config
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\bin\Debug\Final Sacco.exe
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\bin\Debug\FlashControlV71.dll
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\bin\Debug\MetroFramework.Design.dll
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\bin\Debug\MetroFramework.dll
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\bin\Debug\stdole.dll
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final_Sacco.Properties.Resources.resources
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final_Sacco.Reports.ContributionReport.resources
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final_Sacco.Reports.LoanReport.resources
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final_Sacco.Reports.MemberReport.resources
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final_Sacco.SACCO.about.resources
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final_Sacco.SACCO.addmember.resources
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final_Sacco.SACCO.Admin.resources
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final_Sacco.SACCO.applyloan.resources
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final_Sacco.SACCO.EditMember.resources
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final_Sacco.SACCO.loanpayment.resources
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final_Sacco.SACCO.login.resources
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final_Sacco.SACCO.makecontribution.resources
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final_Sacco.SACCO.Contributions.resources
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final_Sacco.SACCO.MemberRecords.resources
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final_Sacco.SACCO.MembersDataset.resources
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final_Sacco.SACCO.membersearch.resources
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final_Sacco.SACCO.SysSettings.resources
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final_Sacco.SACCO.ViewLoans.resources
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final_Sacco.UControls.SystemUserControl.resources
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final_Sacco.UControls.DasboardControl.resources
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final_Sacco.UControls.MemberControl.resources
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final_Sacco.UControls.LoanControl.resources
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final Sacco.csproj.GenerateResource.cache
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final Sacco.csproj.CoreCompileInputs.cache
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final Sacco.csproj.CopyComplete
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final Sacco.exe
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final Sacco.pdb
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final Sacco.csprojAssemblyReference.cache
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\bin\Debug\Final Sacco.pdb
+C:\Users\Self Help\Desktop\Final Sacco\Final Sacco\obj\Debug\Final_Sacco.SACCO.PayLoan.resources

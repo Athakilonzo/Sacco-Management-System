@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final Sacco", "Final Sacco\Final Sacco.csproj", "{1D19B00A-4A30-48C6-A13A-D43AE8BF3CF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D19B00A-4A30-48C6-A13A-D43AE8BF3CF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D19B00A-4A30-48C6-A13A-D43AE8BF3CF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D19B00A-4A30-48C6-A13A-D43AE8BF3CF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D19B00A-4A30-48C6-A13A-D43AE8BF3CF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16CAB2D0-07C9-4896-9684-7D997A347B7A}
+	EndGlobalSection
+EndGlobal
